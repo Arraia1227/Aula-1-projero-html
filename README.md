@@ -11,7 +11,7 @@
 </head>
 
 <body>
-  <h1>Conceitos HTML</h1>
+  
   <hr />
   <h2 id="inicio">Indice</h2>
   <ul>
